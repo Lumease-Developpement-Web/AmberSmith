@@ -1,16 +1,66 @@
+# Welcome to the first one-shot project "Lifestyle!"  
+
+Direct link: https://lumease.github.io/lifestyle/  
+
+This project is freely accessible, and all information regarding its download can be found below.  
+
+Feel free to contact me if you have any requests or specific ideas.  
+
+## Modifications and Publishing the Template
+
+Are you a beginner and want to get this template?  
+
+You will need to download Git Bash (for Windows and Mac). For Mac, use the Terminal application.  
+
+After launching it, enter the following commands:
+
+- `cd Desktop`
+- `git clone https://github.com/Lumease/lifestyle.git`
+- Open the folder in your code editor.
+
+Or download the compressed ZIP format.
+
+--
+
+### To Publish
+
+Follow these instructions after creating a GitHub account:
+
+1. Open the terminal and enter:
+
+```bash
+git config --global user.name "YourUsername"
+git config --global user.email "your@mail.com"
+git config --global --list  # Checks that the username and email are correctly registered
+
+Then, open the terminal and enter the following commands:
+
+cd Desktop/folder-name
+git add .
+git commit -m "Your commit message"
+git push -u origin main
+
+From VS Code:
+
+Select "Bash" in the terminal, then enter:
+git add .
+git commit -m "Your commit message"
+git push -u origin main
+
+## Auteur
+
+Lumease - 2025
+
+
+---
+
 # Bienvenue sur le premier projet one-shot "Lifestyle!" !
 
 Lien direct : https://lumease.github.io/lifestyle/
+ 
+Il est en libre accès, et vous trouverez toutes les informations relatives à son téléchargement ci dessous.
 
-Les projets "one-shot" seront régulièrement publiés et seront des projets rapides et esthétiques. Ici, pas d'intégrations complexes, ou trop volumineuses.
-
-Les photos seront différentes de la maquette, car elles sont de trop basse qualité. 
-
-Ils seront en libre accès, et vous trouverez toutes les informations relatives à son téléchargement ci dessous.
-
-Le lien direct sera disponible une fois le projet terminé.
-
-Aussi, n'hésitez pas à me contacter si vous avez des demandes ou des idées particulières. 
+N'hésitez pas à me contacter si vous avez des demandes ou des idées particulières. 
 
 ## Modifications et publication du modèle
 
@@ -57,61 +107,5 @@ Puis :
 ## Auteur
 
 Lumease - 2025.
-
---
-
-## Welcome to the first one-shot project: "Lifestyle!"
-
-Direct link : https://lumease.github.io/lifestyle/
-
-The "one-shot" projects will be published regularly and are designed to be quick and visually appealing. No complex or heavy integrations here.
-
-They will be freely accessible, and you’ll find all the relevant download information below.
-
-The direct link will be available once the project is complete.
-
-## Modifications and Publishing the Model
-
-Are you a beginner and want to get this model?
-
-You’ll need to download Git Bash (for Windows and Mac). For Mac, it's the Terminal app.
-
-After launching it, enter the following commands:
-
-- 'cd Desktop'
-- 'git clone https://github.com/Lumease/lifestyle.git'
-- Go to your code editor, then open the folder.
-
-Or download the ZIP compressed format.
-
---
-
-To publish:
-
-- Follow these instructions after creating an account:
-
-  - Open the terminal, then enter:
-    - 'git config --global user.name "Username"'
-    - 'git config --global user.email "my@mail.com"'
-    - 'git config --global --list' : To check if the name and email are correctly registered.
-
-Then:
-
-- Open the terminal and enter the following commands:
-
-  - 'cd Desktop/folder-name'
-  - 'git add .'
-  - 'git commit -m "Message-you-want"'
-  - 'git push -u origin main'
-
-- From VS Code:
-
-  Select "Bash" in the terminal, then enter:
-
-  - 'git add .'
-  - 'git commit -m "Message-you-want"'
-  - 'git push -u origin main'
-
-## Author
 
 Lumease - 2025.
