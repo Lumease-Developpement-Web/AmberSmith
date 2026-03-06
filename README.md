@@ -1,66 +1,71 @@
-# Welcome to the project "Lifestyle!"  
+# Welcome to the "Lifestyle!" project!
 
-Direct link: https://lumease.github.io/lifestyle/  
+This is a public and available model. You can use it to benefit from a customizable template.
 
-This project is freely accessible, and all information regarding its download can be found below.  
+## Description
 
-Feel free to contact me if you have any requests or specific ideas.  
+This project is part of the "Mastering Front-End" course.  
+It features a complete and interactive design, which can help highlight your brand or business.  
+You can visit it via the following link: https://lumease.github.io/gamingcampus/.
 
-## Modifications and Publishing the Template
+## Modifications and Publishing the Model
 
-Are you a beginner and want to get this template?  
+Are you a beginner and want to get this model?
 
-You will need to download Git Bash (for Windows and Mac). For Mac, use the Terminal application.  
+You will need to download Git Bash (for Windows and Mac). For Mac, it's the Terminal app.
 
 After launching it, enter the following commands:
 
-- `cd Desktop`
-- `git clone https://github.com/Lumease/lifestyle.git`
-- Open the folder in your code editor.
+- 'cd Desktop'
+- 'git clone https://github.com/Lumease/gamingcampus.git'
+- Go to your code editor, then open the folder.
 
-Or download the compressed ZIP format.
+Or download the ZIP compressed format.
 
 --
 
-### To Publish
+To publish:
 
-Follow these instructions after creating a GitHub account:
+- Follow these instructions after creating an account:
 
-1. Open the terminal and enter:
+  - Open the terminal, then enter:
+    - 'git config --global user.name "Username"'
+    - 'git config --global user.email "my@mail.com"'
+    - 'git config --global --list' : To check if the name and email are correctly registered.
 
-``bash
-git config --global user.name "YourUsername"
-git config --global user.email "your@mail.com"
-git config --global --list  # Checks that the username and email are correctly registered
+Then:
 
-Then, open the terminal and enter the following commands:
+- Open the terminal and enter the following commands:
 
-cd Desktop/folder-name
-git add .
-git commit -m "Your commit message"
-git push -u origin main
+  - 'cd Desktop/folder-name'
+  - 'git add .'
+  - 'git commit -m "Message-you-want"'
+  - 'git push -u origin main'
 
-From VS Code:
+- From VS Code:
 
-Select "Bash" in the terminal, then enter:
-git add .
-git commit -m "Your commit message"
-git push -u origin main
+  Select "Bash" in the terminal, then enter:
 
-## Auteur
+  - 'git add .'
+  - 'git commit -m "Message-you-want"'
+  - 'git push -u origin main'
 
-Lumease - 2025
+## Author
 
+Lumease - 2026.
 
 ---
 
 # Bienvenue sur le projet "Lifestyle!" !
 
-Lien direct : https://lumease.github.io/lifestyle/
- 
-Il est en libre accès, et vous trouverez toutes les informations relatives à son téléchargement ci dessous.
+Il s'agit d'un modèle public et disponible. Vous pouvez vous en servir pour bénéficier d'un modèle personnalisable.
 
-N'hésitez pas à me contacter si vous avez des demandes ou des idées particulières. 
+## Description
+
+Ce projet est effectué dans le cadre de la formation "Mastering Front-End".
+Il présente un désign complet et interractif, pouvant vous servir à mettre en lumière votre marque ou votre entreprise.
+
+Vous pouvez le visiter via le lien suivant : https://lumease.github.io/gamingcampus/.
 
 ## Modifications et publication du modèle
 
@@ -71,7 +76,7 @@ Vous devrez télécharger git bash (pour Windows et Mac). Pour Mac, il s'agit de
 Après l'avoir lancé, entrez les commandes suivantes :
 
 - 'cd Desktop'
-- 'git clone https://github.com/Lumease/lifestyle.git'
+- 'git clone https://github.com/Lumease/gamingcampus.git'
 - Accédez à votre éditeur de code, puis ouvez le dossier.
 
 ou téléchargez le format compressé ZIP.
@@ -89,7 +94,7 @@ Pour le publier:
 
 Puis :
 
-- Ouvrez le terminal, et entrez les commandes suivantes :
+- Ouvrez le terminal, puis entrez les commandes suivantes :
 
   - 'cd Desktop/nom-du-fichier'
   - 'git add .'
@@ -106,4 +111,4 @@ Puis :
 
 ## Auteur
 
-Lumease - 2025.
+Lumease - 2026.
